@@ -8,22 +8,12 @@ a:hover, a:active { text-decoration: none; }
   text-align: center;
   background-color: #282c34;
   min-height: 100vh;
+  min-width: 100vw;
 }
 
-.App-logo {
-  height: 30vmin;
-  pointer-events: none;
-}
 
-.App-charms {
-  height: 20vmin;
-}
 
-.Top-row {
-  flex-direction: row;
-  align-items: flex-start;
-  align-content: flex-start;
-}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

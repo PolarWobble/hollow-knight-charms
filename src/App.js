@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
-import logo from './logo.svg';
-import Charms from './components/Charms.js';
+import Top_row from './components/Top_row.js';
+import Mid_row from './components/Mid_row.js';
 import Instructions from './components/Instructions.js';
 import './App.css';
 
@@ -12,9 +12,11 @@ class App extends Component {
 		      			<Instructions/>
 
 		      			<br/><br/><br/><br/><br/><br/>
-
-		      			<Charms/>
-
+		      			
+		      			<div>
+		      				<Top_row/>
+		      				<Mid_row/>
+		      			</div>
 					</div>
 	      		
 	    	</div>
