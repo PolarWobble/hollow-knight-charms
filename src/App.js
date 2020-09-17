@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
-import Top_row from './components/Top_row.js';
-import Mid_row from './components/Mid_row.js';
+import RowTop from './components/RowTop.js';
+import RowMid from './components/RowMid.js';
 import Instructions from './components/Instructions.js';
 import './App.css';
 
@@ -12,13 +12,13 @@ class App extends Component {
 		      			<Instructions/>
 
 		      			<br/><br/><br/><br/><br/><br/>
-		      			
+
 		      			<div>
-		      				<Top_row/>
-		      				<Mid_row/>
+		      				<RowTop/>
+		      				<RowMid/>
 		      			</div>
 					</div>
-	      		
+
 	    	</div>
 	  	);
 	}

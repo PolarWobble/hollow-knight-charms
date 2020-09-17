@@ -1,3 +1,11 @@
 .Charms {
 	width: 9.4vw;
 }
+
+.SmallFont {
+    font-size: 90%;
+    color: grey;
+    -webkit-text-fill-color: grey; /* Will override color (regardless of order) */
+    -webkit-text-stroke-width: 0.05px;
+    -webkit-text-stroke-color: white;
+}

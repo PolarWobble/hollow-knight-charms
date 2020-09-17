@@ -2,7 +2,7 @@ import React from 'react';
 import ModalImage from 'react-modal-image';
 import './Charms.css';
 
-const Charm_wayward_compass = () => {
+const CharmWaywardCompass = () => {
 	return (
 		<div class="Charms">
 			<ModalImage
@@ -10,8 +10,9 @@ const Charm_wayward_compass = () => {
 			  large={'https://gamefaqs1.cbsistatic.com/faqs/39/76039-125.jpg'}
 			  alt="Wayward Compass"
 			/>
+            <p class="SmallFont" >Wayward Compass</p>
 		</div>
 	);
 }
 
-export default Charm_wayward_compass;
+export default CharmWaywardCompass;
