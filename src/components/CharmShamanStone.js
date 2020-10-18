@@ -4,7 +4,7 @@ import './Charms.css';
 
 const CharmShamanStone = () => {
 	return (
-		<div class="Charms">
+		<div class="Charms grow">
 			<ModalImage
 			  small={'https://vignette.wikia.nocookie.net/hollowknight/images/5/5e/Shaman_Stone.png/revision/latest?cb=20180909165308'}
 			  large={'https://vignette.wikia.nocookie.net/hollowknight/images/d/de/Mapshot_HK_Salubra_01.png/revision/latest?cb=20190830085536'}

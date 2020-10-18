@@ -13,8 +13,8 @@ import CharmGrubberflysElegy from './CharmGrubberflysElegy';
 const RowTop = () => {
 	return (
 		<div class="flex justify-start items-center">
-			<CharmWaywardCompass/>
-			<CharmGatheringSwarm/>
+			<CharmWaywardCompass />
+			<CharmGatheringSwarm />
 			<CharmStalwartShell/>
 			<CharmSoulCatcher/>
 			<CharmShamanStone/>

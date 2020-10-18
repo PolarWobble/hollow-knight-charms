@@ -4,7 +4,7 @@ import './Charms.css';
 
 const CharmGrubberflysElegy = () => {
 	return (
-			<div class="Charms">
+			<div class="Charms grow">
 				<ModalImage
 				  small={'https://vignette.wikia.nocookie.net/hollowknight/images/b/bd/Grubberfly%27s_Elegy.png/revision/latest?cb=20180909170214'}
 				  large={'https://vignette.wikia.nocookie.net/hollowknight/images/4/4b/Mapshot_HK_Mask_Shard_02.png/revision/latest?cb=20200417112845'}

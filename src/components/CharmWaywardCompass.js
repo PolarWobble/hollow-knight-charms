@@ -4,7 +4,7 @@ import './Charms.css';
 
 const CharmWaywardCompass = () => {
 	return (
-		<div class="Charms">
+		<div class="Charms grow">
 			<ModalImage
 			  small={'https://vignette.wikia.nocookie.net/hollowknight/images/7/7d/Wayward_Compass.png/revision/latest?cb=20180909165457'}
 			  large={'https://gamefaqs1.cbsistatic.com/faqs/39/76039-125.jpg'}
