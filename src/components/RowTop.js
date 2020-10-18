@@ -19,7 +19,7 @@ const RowTop = () => {
 			<CharmSoulCatcher/>
 			<CharmShamanStone/>
 			<CharmSoulEater/>
-			<CharmDashmaster/>
+			<CharmDashmaster />
 			<CharmSprintmaster/>
 			<CharmGrubsong/>
 			<CharmGrubberflysElegy/>
