@@ -9,6 +9,7 @@ const CharmSoulEater = () => {
 			  small={'https://vignette.wikia.nocookie.net/hollowknight/images/6/6c/Soul_Eater.png/revision/latest?cb=20180909165007'}
 			  large={'https://vignette.wikia.nocookie.net/hollowknight/images/f/ff/Soul_Eater_Location.png/revision/latest?cb=20190830090137'}
 			  alt="Soul Eater"
+			  className="grow"
 			/>
             <p class="SmallFont" >Soul Eater</p>
 		</div>
