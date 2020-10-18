@@ -1,9 +1,11 @@
-.Instructions-format {
+.New-instructions-format {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  align-content: space-around;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
   font-size: calc(4px + 2vmin);
   font-weight: lighter;
   color: white;
 }
+
