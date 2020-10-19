@@ -7,7 +7,7 @@ const CharmWaywardCompass = () => {
 		<div class="Charms">
 			<ModalImage
 			  small={'https://vignette.wikia.nocookie.net/hollowknight/images/7/7d/Wayward_Compass.png/revision/latest?cb=20180909165457'}
-			  large={'https://gamefaqs1.cbsistatic.com/faqs/39/76039-125.jpg'}
+			  large={'https://vignette.wikia.nocookie.net/hollowknight/images/2/2c/Mapshot_HK_Iselda_01.png/revision/latest/scale-to-width-down/551?cb=20190918115202'}
 			  alt="Wayward Compass"
 			  className="grow"
 			/>
